@@ -2,7 +2,7 @@
 
 ## Overview
 
-In ths lab, you'll write non-side-effecting functions and you'll chain updates without mutating global state. 
+In this lab, you'll write non-side-effecting functions and you'll chain updates without mutating global state. 
 
 ## Late to the party
 
